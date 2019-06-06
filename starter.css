@@ -1,0 +1,27 @@
+Assets:
+lightgrey #f4f4f4
+peach #ff8b67
+teal #cff5f2
+
+h1 
+color: white;
+}
+
+header {
+background-image: url(http://psd.hackeryou.com/summer/image-1.jpg
+);
+height: 100vh
+background-size: cover;
+padding-top: 25vh;
+}
+.about {
+	background-color: #F4F4F4
+}
+
+.gallery {
+	background-color: #FCFCFC
+}
+/* * {
+  box-sizing: border-box;
+} */
+
